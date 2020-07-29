@@ -1,4 +1,4 @@
-Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma | FRED
+Crude Oil Prices: West Texas Intermediate - Cushing, Oklahoma | FRED
 =========================
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-crude-oil-prices](https://github.com/rearc-data/fred-crude-oil-prices).
