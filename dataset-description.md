@@ -1,1 +1,1 @@
-This release contains information on West Texas Intermediate(WTI) crude oil prices. WTI is usually delivered in Cushing, Oklahoma.
+This release contains information on West Texas Intermediate(WTI) crude oil prices. WTI is usually delivered in Cushing, Oklahoma. Cushing, Oklahoma is an important location for oil due to world oil prices being determined there as a result of WTIs being the most traded oil futures contract globally.
