@@ -5,7 +5,7 @@ The source code outlining how this product gathers, transforms, revises and publ
 
 ## Main Overview
 
-This release contains information on West Texas Intermediate(WTI) crude oil prices. WTI is usually delivered in Cushing, Oklahoma.
+This release contains information on West Texas Intermediate(WTI) crude oil prices. WTI is usually delivered in Cushing, Oklahoma. Cushing, Oklahoma is an important location for oil due to world oil prices being determined there as a result of WTIs being the most traded oil futures contract globally.
 
 The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
